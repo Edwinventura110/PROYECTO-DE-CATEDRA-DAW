@@ -55,7 +55,7 @@ h2{
   text-decoration: none;
 }
 .form .register-form {
-  display: none;
+  display: block;
 }
 .btn {
   position: relative;
