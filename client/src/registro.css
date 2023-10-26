@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(to right, #7191e4, #4ce09b);
+}
+
+.formBg{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+fieldset{
+    border: solid;
+    margin: 25px;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+label{
+    margin: 15px;
+    font-weight:500;
+}
+
+.boton{
+    margin: 25px 0 25px 0;
+    border-radius: 5px;
+    background: linear-gradient(to right, #7191e4, #4ce09b);
+    font-weight:500;
+    width: 100%  ;
+    
+}
+
+.boton:hover{
+    background: linear-gradient(to left, #7191e4, #4ce09b);
+}
