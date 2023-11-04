@@ -1,0 +1,45 @@
+/* mainPage.css */
+.MainPage {
+    background-color: #f0f0f0; /* Fondo gris claro */
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    background-color: #007BFF; /* Fondo azul */
+    color: #fff; /* Texto blanco */
+    border-radius: 0;
+  }
+  
+  .jumbotron {
+    background-color: #fff; /* Fondo blanco */
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .jumbotron h1 {
+    color: #007BFF; /* Texto azul */
+  }
+  
+  .btn-primary {
+    background-color: #007BFF; /* Fondo azul */
+    border: none;
+    color: #fff; /* Texto blanco */
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3; /* Fondo azul más oscuro al pasar el ratón */
+  }
+  
+  .footer {
+    background-color: #333; /* Fondo negro */
+    color: #fff; /* Texto blanco */
+    padding: 10px 0;
+    text-align: left;
+  }
+  
+  .footer img {
+    max-width: 100px; /* Ajustar el tamaño del logotipo */
+  }
+  
